@@ -4,6 +4,8 @@
 ## Original Dataset
 - MNIST is a classic data set in the field of machine learning and deep learning. There are many methods for this data set. Here are some methods for reference.  
 - the data resource is [kaggle Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/overview)
+- [train](https://drive.google.com/file/d/1jCDhH0PNpBu0Az-O2Fx96k6BSU40ej9W/view?usp=drive_link)
+- [test](https://drive.google.com/file/d/1CC7AHQz4qoVbaxgrNbUB-MVCqQsaTluR/view?usp=drive_link)
 ## ~~Datasets~~
 - This dataset is used for model training and testing
 - Remove instantaneous values
